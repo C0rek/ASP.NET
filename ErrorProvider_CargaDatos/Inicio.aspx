@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Inicio.aspx.cs" Inherits="TP5_Validación__TomasRodriguezZoni.Inicio" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Inicio.aspx.cs" Inherits="TP5_Validación.Inicio" %>
 
 <!DOCTYPE html>
 
