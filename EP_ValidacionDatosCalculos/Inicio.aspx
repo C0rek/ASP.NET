@@ -1,4 +1,4 @@
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Inicio.aspx.cs" Inherits="COLOQUIO_TomasRodriguezZoni.Inicio" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Inicio.aspx.cs" Inherits="COLOQUIO" %>
 
 <!DOCTYPE html>
 
